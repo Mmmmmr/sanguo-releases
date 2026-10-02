@@ -1,0 +1,2 @@
+# sanguo-releases
+SanguoAutomation releases
